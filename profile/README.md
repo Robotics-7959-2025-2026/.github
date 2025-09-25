@@ -1,6 +1,6 @@
 ## Hello!
 
-# Welcome to the CHS Robotics 2024-2025 Github page for team 7959!
+# Welcome to the CHS Robotics 2025-2026 Github page for team 7959!
 
 (Codebase is privated until the end of the season)
 
